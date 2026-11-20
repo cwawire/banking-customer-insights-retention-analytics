@@ -1,0 +1,38 @@
+
+{
+  "name": "Modern Financial Intelligence",
+  "dataColors": [
+    "#2878B5",
+    "#16A6A1",
+    "#D96C6C",
+    "#75B8E7",
+    "#17365D",
+    "#0D7775",
+    "#E5AD45",
+    "#8B98A9"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#263445",
+  "tableAccent": "#2878B5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": "#17365D"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": "#FFFFFF",
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
